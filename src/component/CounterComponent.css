@@ -1,0 +1,46 @@
+/* CounterComponent.css */
+
+/* Container styles */
+.counter-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 300px;
+    background: linear-gradient(45deg, #FF6B6B, #556270);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    color: white;
+  }
+  
+  /* Title styles */
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+  }
+  
+  /* Counter value styles */
+  h3 {
+    font-size: 48px;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+  
+  /* Button styles */
+  button {
+    margin: 0 10px;
+    padding: 12px 24px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+    letter-spacing: 1px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
